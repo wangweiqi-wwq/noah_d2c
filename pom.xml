@@ -16,7 +16,7 @@
     <properties>
         <java.version>1.8</java.version>
         <rocketMQ.version>2.0.0.2</rocketMQ.version>
-        <xxljob.version>2.2.0</xxljob.version>
+        <xxljob.version>2.3.1</xxljob.version>
         <xxljob-jetty.version>9.3.26.v20190403</xxljob-jetty.version>
     </properties>
     <dependencies>
@@ -141,7 +141,7 @@
         <dependency>
             <groupId>com.xuxueli</groupId>
             <artifactId>xxl-job-core</artifactId>
-            <version>2.2.0</version>
+            <version>2.3.1</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.dataformat</groupId>
